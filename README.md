@@ -19,15 +19,25 @@ The objective was to identify malicious components, investigate their behavior, 
 2. Investigation & Findings
 
 #| Investigation Question| Finding
+
 Q1| Number of malicious 3CX versions| "2"
+
 Q2| MSI creation timestamp (UTC)| "2023-03-13 06:33"
+
 Q3| Malicious DLL dropped by MSI| "ffmpeg.dll_d3dcompiler_47.dll"
+
 Q4| MITRE persistence technique ID| "T1574"
+
 Q5| Malware category| "Trojan"
+
 Q6| MITRE sandbox evasion technique| "T1497"
+
 Q7| Targeted hypervisor| "VMware"
+
 Q8| Encryption algorithm| "RC4"
+
 Q9| Attributed APT group| "Lazarus"
+
 
 3. Technical Analysis
 
